@@ -1,0 +1,30 @@
+{
+  "name": "react-probe",
+  "version": "0.0.0",
+  "description": "A convention to write testable React component.",
+  "main": "lib/index.js",
+  "scripts": {
+    "lint": "eslint ./lib",
+    "eslint-fix": "eslint --fix ./lib",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjycui/react-probe.git"
+  },
+  "keywords": [
+    "react",
+    "unit",
+    "test"
+  ],
+  "author": "Benjy Cui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benjycui/react-probe/issues"
+  },
+  "homepage": "https://github.com/benjycui/react-probe#readme",
+  "devDependencies": {
+    "eslint": "^3.0.1",
+    "eslint-config-egg": "^2.0.0"
+  }
+}
