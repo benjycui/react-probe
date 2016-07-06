@@ -1,6 +1,6 @@
 {
   "name": "react-probe",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A convention to write testable React component.",
   "main": "lib/index.js",
   "scripts": {
