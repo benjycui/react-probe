@@ -1,7 +1,7 @@
 {
   "name": "react-probe",
   "version": "0.0.1",
-  "description": "A convention to write testable React component.",
+  "description": "Utilities to test React components' methods directly.",
   "main": "lib/index.js",
   "scripts": {
     "lint": "eslint ./lib",

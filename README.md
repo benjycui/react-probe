@@ -1,4 +1,4 @@
 # react-probe
 
-A convention to write testable React component.
+Utilities to test React components' methods directly.
 
