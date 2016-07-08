@@ -1,6 +1,6 @@
 {
   "name": "react-probe",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Utilities to test React components' methods directly.",
   "main": "lib/index.js",
   "scripts": {
