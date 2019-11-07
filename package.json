@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/benjycui/react-probe#readme",
   "devDependencies": {
-    "eslint": "^3.0.1",
+    "eslint": "^6.6.0",
     "eslint-config-egg": "^2.0.0"
   }
 }
